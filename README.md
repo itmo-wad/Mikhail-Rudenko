@@ -1,2 +1,3 @@
 # Mikhail-Rudenko
-Repository for submission 
+Repository for 1st homework 
+
